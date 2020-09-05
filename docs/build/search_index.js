@@ -1,0 +1,3 @@
+var documenterSearchIndex = {"docs":
+[{"location":"","page":"-","title":"-","text":"\tPages = [\"foo.md\"]\r\n\tDepth = 2","category":"page"},{"location":"","page":"-","title":"-","text":"CurrentModule = TestPkg","category":"page"},{"location":"","page":"-","title":"-","text":"func(x)","category":"page"},{"location":"#TestPkg.func-Tuple{Any}","page":"-","title":"TestPkg.func","text":"func(x)\n\nReturns double the number x plus 1.\n\n\n\n\n\n","category":"method"},{"location":"","page":"-","title":"-","text":"","category":"page"},{"location":"","page":"-","title":"-","text":"link to func(x)","category":"page"}]
+}
